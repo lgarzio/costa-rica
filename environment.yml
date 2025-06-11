@@ -1,0 +1,17 @@
+name: costa-rica
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.12.0
+  - pandas==2.1.1
+  - cartopy==0.23.0
+  - cmocean==3.0.3
+  - numpy==1.26.0
+  - xarray==2023.10.1
+  - netcdf4==1.6.4
+  - matplotlib==3.8.0
+  - geographiclib==2.0
+  - cool_maps==1.0.1
+  - geopandas==0.14.0
+  - erddapy==2.2.0
